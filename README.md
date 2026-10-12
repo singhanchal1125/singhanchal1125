@@ -16,18 +16,18 @@
 
 ---
 
-# About Me
+# 🧑‍💻 About Me
 
-- B.Tech Computer Science / IT student at **Shri Ramswaroop Memorial University, Lucknow** *(2023 - 2027)*
-- Focused on **Data Analytics, Business Intelligence, and Applied AI**
-- Skilled in **Python, SQL, Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**
-- Experienced with **data cleaning, EDA, dashboards, customer segmentation, KPI reporting, and statistical analysis**
-- Completed **Forage virtual analytics simulations** inspired by KPMG, Accenture, and BCG workflows
-- Goal: Build practical analytics solutions that turn messy data into clear business decisions
+- 🎓 B.Tech Computer Science / IT student at **Shri Ramswaroop Memorial University, Lucknow** *(2023 - 2027)*
+- 📊 Focused on **Data Analytics, Business Intelligence, and Applied AI**
+- 🧠 Skilled in **Python, SQL, Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**
+- 📈 Experienced with **data cleaning, EDA, dashboards, customer segmentation, KPI reporting, and statistical analysis**
+- 💼 Completed **Forage virtual analytics simulations** inspired by KPMG, Accenture, and BCG workflows
+- 🎯 Goal: Build practical analytics solutions that turn messy data into clear business decisions
 
 ---
 
-# Core Skills
+# ⚡ Core Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" width="70" alt="Core tools" />
@@ -48,7 +48,7 @@
 
 ---
 
-# Professional Experience
+# 💼 Professional Experience
 
 ### Data Analytics Virtual Internship - Forage *(2024)*
 > KPMG / Accenture / BCG simulations
@@ -61,7 +61,7 @@
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ### Sales Data Dashboard
 Interactive Power BI dashboard for monthly revenue, regional sales performance, KPIs, YOY growth, profit margin, and customer churn.  
@@ -85,7 +85,7 @@ Business dataset analysis using spreadsheet workflows and guided project tasks.
 
 ---
 
-# Education
+# 🎓 Education
 
 | Qualification | Details |
 |---|---|
@@ -95,7 +95,7 @@ Business dataset analysis using spreadsheet workflows and guided project tasks.
 
 ---
 
-# Certifications
+# 🏅 Certifications
 
 | Certification | Issuer | Date |
 |---|---|---|
@@ -104,7 +104,21 @@ Business dataset analysis using spreadsheet workflows and guided project tasks.
 
 ---
 
-# GitHub Stats
+# ✨ Soft Skills & Activities
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-000000?style=for-the-badge&labelColor=F97316" alt="Analytical Thinking" />
+  <img src="https://img.shields.io/badge/Data%20Storytelling-000000?style=for-the-badge&labelColor=F97316" alt="Data Storytelling" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&labelColor=F97316" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-000000?style=for-the-badge&labelColor=F97316" alt="Team Collaboration" />
+</p>
+
+- Active participant in **Unstop data analytics challenges** and **Kaggle competitions**
+- Interested in **data exploration, tech blogs, research papers, chess, and side projects**
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhanchal1125&show_icons=true&theme=highcontrast&hide_border=true&bg_color=000000&title_color=F97316&icon_color=F97316&text_color=ffffff" alt="GitHub stats" />
@@ -117,7 +131,15 @@ Business dataset analysis using spreadsheet workflows and guided project tasks.
 
 ---
 
-# Connect With Me
+# 🕷️ Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anchalsingh-382a18317">
@@ -133,7 +155,7 @@ Business dataset analysis using spreadsheet workflows and guided project tasks.
 
 ---
 
-# Quote
+# 💡 Quote
 
 > *"Data becomes powerful when it becomes understandable."*
 
