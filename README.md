@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/analytics-3d.svg" width="820" alt="3D analytics workspace" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anchalsingh&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&title=Repositories,Commits,PullRequest,Followers" alt="3D GitHub trophy strip" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=760&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+Dashboards+%7C+Insights;Building+analytics+projects+with+clear+business+impact" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -39,15 +43,15 @@ I am a B.Tech Computer Science / IT undergraduate at Shri Ramswaroop Memorial Un
 </p>
 
 <p align="center">
-  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
   &nbsp;&nbsp;
-  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
   &nbsp;&nbsp;
-  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
   &nbsp;&nbsp;
-  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" />
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" />
   &nbsp;&nbsp;
-  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" />
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" />
 </p>
 
 | Analytics | BI and Reporting | ML Foundations | Platforms |
