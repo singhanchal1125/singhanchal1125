@@ -1,5 +1,7 @@
 <!-- Wave Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F97316&height=210&section=header&text=Anchal%20Singh&fontAlignY=38&fontSize=44&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F97316&height=230&section=header&text=Anchal%20Singh&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Business%20Intelligence&descAlignY=58&descSize=17&animation=fadeIn" alt="Anchal Singh" />
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -8,10 +10,10 @@
 
 <!-- Quick Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=singhanchal1125&label=Profile+Views&style=for-the-badge&color=000000&labelColor=F97316" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Role-Data+Analyst-F97316?style=for-the-badge&labelColor=000000" alt="Role" />
-  <img src="https://img.shields.io/badge/Skills-Python%20%7C%20SQL%20%7C%20Power%20BI-F97316?style=for-the-badge&labelColor=000000" alt="Skills" />
-  <img src="https://img.shields.io/badge/Focus-Business+Intelligence-F97316?style=for-the-badge&labelColor=000000" alt="Business Intelligence" />
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-000000?style=for-the-badge&labelColor=F97316" alt="Role" />
+  <img src="https://img.shields.io/badge/Python-Analytics-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=F97316" alt="Python Analytics" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Queries-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F97316" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-000000?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=F97316" alt="Power BI" />
 </p>
 
 ---
@@ -30,12 +32,26 @@
 # ⚡ Core Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" width="70" alt="Core tools" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="70" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="70" alt="Scikit-learn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="70" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark&perline=6" alt="Python, MySQL, PostgreSQL, Git, GitHub, VS Code" />
+</p>
+
+<p align="center">
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F97316" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=F97316" alt="Excel" />
+  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=F97316" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F97316" alt="Google Colab" />
 </p>
 
 | Area | Skills |
