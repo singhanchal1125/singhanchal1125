@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anchalsingh&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&title=Repositories,Commits,PullRequest,Followers" alt="3D GitHub trophy strip" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,70:111827,100:F97316&height=105&section=header&text=Data%20%7C%20Dashboards%20%7C%20Insights&fontSize=25&fontColor=ffffff&desc=Python%20%2B%20SQL%20%2B%20Power%20BI%20%2B%20Excel&descAlignY=72&descSize=14&animation=fadeIn" alt="Data analytics portfolio panel" />
 </p>
 
 <p align="center">
