@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:F97316&height=150&section=header&text=Anchal%20Singh&fontSize=38&fontColor=ffffff&fontAlignY=43&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Power%20BI%20%2B%20SQL%20%2B%20Python&descAlignY=70&descSize=15" alt="Anchal Singh - Data Analyst" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:111827,100:F97316&height=180&section=header&text=Anchal%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Business%20Intelligence&descAlignY=58&descSize=15" alt="Anchal Singh" />
+</p>
+
+<p align="center">
+  <img src="./assets/analytics-3d.svg" width="820" alt="3D analytics workspace" />
 </p>
 
 <p align="center">
@@ -16,36 +20,50 @@
 
 <br />
 
-## About
+## Profile
 
-I am a B.Tech Computer Science / IT undergraduate at Shri Ramswaroop Memorial University, Lucknow, focused on data analytics, business intelligence, and applied AI. I work with Python, SQL, Power BI, and Excel to clean data, build dashboards, analyze patterns, and communicate insights in a practical business context.
+I am a B.Tech Computer Science / IT undergraduate at Shri Ramswaroop Memorial University, Lucknow, focused on data analytics, business intelligence, and applied AI. I use Python, SQL, Power BI, and Excel to clean data, build dashboards, study trends, and turn analysis into clear business recommendations.
 
-- Currently building analytics projects across dashboards, SQL systems, and exploratory analysis
-- Interested in data analytics roles where I can turn raw data into clear decisions
-- Comfortable with reporting workflows, visualization, segmentation, and statistical analysis
+<p>
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-020617?style=flat-square&labelColor=F97316&color=020617" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/BI-Power%20BI%20%2B%20Excel-020617?style=flat-square&labelColor=F97316&color=020617" alt="Power BI and Excel" />
+  <img src="https://img.shields.io/badge/Learning-Applied%20AI-020617?style=flat-square&labelColor=F97316&color=020617" alt="Applied AI" />
+</p>
 
 <br />
 
-## Core Skills
+## Skill Stack
 
-| Area | Tools and Concepts |
-|---|---|
-| Programming and Querying | Python, SQL, MySQL, PostgreSQL |
-| Data Analysis | Pandas, NumPy, statistical analysis, A/B testing concepts |
-| Visualization and BI | Power BI, DAX, Power Query, Tableau basics, Matplotlib, Seaborn |
-| Machine Learning | Regression, classification, clustering, feature engineering, Scikit-learn |
-| Productivity and Platforms | Excel, Pivot Tables, VLOOKUP, Jupyter Notebook, Google Colab, Git, GitHub, VS Code |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark&perline=6" alt="Python, MySQL, PostgreSQL, Git, GitHub, VS Code" />
+</p>
+
+<p align="center">
+  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
+  &nbsp;&nbsp;
+  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" />
+  &nbsp;&nbsp;
+  <img height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" />
+</p>
+
+| Analytics | BI and Reporting | ML Foundations | Platforms |
+|---|---|---|---|
+| Pandas, NumPy, SQL, statistics | Power BI, DAX, Power Query, Excel, Tableau basics | Regression, classification, clustering, feature engineering | Jupyter, Google Colab, GitHub, VS Code, MS Office |
 
 <br />
 
 ## Featured Work
 
-| Project | Focus | Tools | Outcome |
-|---|---|---|---|
-| Sales Data Dashboard | Interactive dashboard for monthly revenue, regional sales, KPIs, and drill-through analysis | Power BI, DAX | Built on a mock retail dataset of 50,000+ rows and reduced manual reporting effort by about 35% |
-| SQL Customer Analytics System | Normalized relational database for customer insights and lifetime value analysis | MySQL, PostgreSQL | Designed 10+ tables and used joins, CTEs, subqueries, window functions, and stored procedures |
-| Exploratory Data Analysis | End-to-end analysis of a public Kaggle dataset | Python, Pandas, Matplotlib, Seaborn | Created 15+ visualizations and identified 3 statistically significant feature relationships |
-| Excel Data Analysis | Business data analysis using spreadsheet workflows | Microsoft Excel | Applied pivot tables, VLOOKUP, conditional formatting, and statistical functions |
+| Project | Built With | Highlights |
+|---|---|---|
+| Sales Data Dashboard | Power BI, DAX | Interactive dashboard for monthly revenue, regional performance, KPIs, YOY growth, profit margin, and customer churn on a mock retail dataset of 50,000+ rows |
+| SQL Customer Analytics System | MySQL, PostgreSQL | Normalized 10+ table database with joins, CTEs, subqueries, window functions, stored procedures, and customer lifetime value analysis |
+| Exploratory Data Analysis | Python, Pandas, Matplotlib, Seaborn | Cleaned a public Kaggle dataset, handled outliers, studied correlations, built 15+ charts, and identified 3 significant feature relationships |
+| Excel Data Analysis | Microsoft Excel | Used pivot tables, VLOOKUP, conditional formatting, and statistical functions to analyze business datasets |
 
 <br />
 
@@ -54,24 +72,19 @@ I am a B.Tech Computer Science / IT undergraduate at Shri Ramswaroop Memorial Un
 **Data Analytics Virtual Internship - Forage**  
 KPMG, Accenture, and BCG simulations | Remote | 2024
 
-- Completed simulated analytics workflows inspired by consulting-style business problems
-- Performed data quality assessment on 2,500+ records
-- Used Python and Excel for customer segmentation and identified 3+ customer cohorts
-- Prepared insight presentations with actionable business recommendations
+- Completed consulting-style analytics tasks across data quality, segmentation, insight generation, and business recommendations
+- Assessed 2,500+ records and identified 3+ customer cohorts using Python and Excel
+- Prepared structured insight presentations for mock client reporting workflows
 
 <br />
 
 ## Education
 
-**Bachelor of Technology - Computer Science / IT**  
-Shri Ramswaroop Memorial University, Lucknow  
-2023 - 2027 | CGPA: 7.12
-
-**Higher Secondary - PCM / Computer Science**  
-2022 | 75%
-
-**Secondary School**  
-2020 | 73%
+| Qualification | Institute | Year | Result |
+|---|---|---|---|
+| B.Tech - Computer Science / IT | Shri Ramswaroop Memorial University, Lucknow | 2023 - 2027 | CGPA: 7.12 |
+| Higher Secondary - PCM / Computer Science | - | 2022 | 75% |
+| Secondary School | - | 2020 | 73% |
 
 <br />
 
@@ -93,10 +106,16 @@ Shri Ramswaroop Memorial University, Lucknow
 
 <br />
 
-## Contact
+## Connect
 
-<p>
-  <a href="mailto:anchalsingh@email.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/anchalsingh-382a18317">LinkedIn</a> ·
+<p align="center">
+  <a href="mailto:anchalsingh@email.com">Email</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/anchalsingh-382a18317">LinkedIn</a>
+  &nbsp;|&nbsp;
   <a href="https://github.com/anchalsingh">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:020617&height=95&section=footer" alt="Footer" />
 </p>
